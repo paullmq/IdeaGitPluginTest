@@ -28,6 +28,7 @@ public final class BeanFactory {
 			e=null;
 			daos=null;
 			doc=null;
+			map = null;
 		} catch (Exception ex) {
 			ex.printStackTrace();
 		}
